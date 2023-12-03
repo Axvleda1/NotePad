@@ -1,0 +1,11 @@
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\bin\Debug\G14_NotePad.exe.config
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\bin\Debug\G14_NotePad.exe
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\bin\Debug\G14_NotePad.pdb
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.Form1.resources
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.Properties.Resources.resources
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.exe
+C:\Users\Luka\Desktop\G14_NotePad\G14_NotePad\obj\Debug\G14_NotePad.pdb
